@@ -1,0 +1,3 @@
+Clonamos el Repositorio para poder hacer los comit y de paso
+Creamos un TXT
+para hacer el primer comit ya enlazado a GITHUB
