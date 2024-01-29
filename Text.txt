@@ -1,3 +1,6 @@
-Clonamos el Repositorio para poder hacer los comit y de paso
+Clonamos el Repositorio para poder hacer los commit y de paso
 Creamos un TXT
-para hacer el primer comit ya enlazado a GITHUB
+para hacer el primer commit ya enlazado a GITHUB
+
+
+agregamos el segundo commit con este texto....
